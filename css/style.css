@@ -1,11 +1,12 @@
+* {
+    box-sizing: border-box;
+    /* Box Model Fix */
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
 body {
-    background-color: darkolivegreen;
-}
-.hallow {
-    height: 15px;
-    width: 15px;
-}
-h3 {
-    color: white;
-    font-family: 'Times New Roman', Times, serif;
+    background-image: linear-gradient( #1c0125 , #1c0125aa,);
+    height: 100vh;
 }
