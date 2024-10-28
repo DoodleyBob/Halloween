@@ -110,6 +110,7 @@ a {
     font-size: 1.6em;
 }
 
+
 .one h2,
 .one p {
     font-family: "Amatic SC", sans-serif;
@@ -134,7 +135,17 @@ a {
 .two {
     padding: 10%;
 }
-
+.two  img{
+    width: 25%;
+}
+.fltright{
+    float: right;
+    margin: 0 0 15px 20px;
+}
+.fltleft{
+    float: left;
+    margin: 0 0 15px 20px;
+}
 .four {
     font-size: 1.6em;
 }
@@ -155,6 +166,9 @@ a {
 
 .four {
     padding: 10%;
+}
+.four img{
+    width: 25%;
 }
 
 .five {
