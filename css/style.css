@@ -23,8 +23,8 @@ font-family: "Amatic SC", sans-serif;
 
 
 body {
-    background-image: linear-gradient( #A56032 , #1c0125aa);
     height: 100vh;
+    background-color: #2A1C68;
 }
 
 * {
@@ -105,6 +105,7 @@ a {
     text-align: center;
 
 }
+
 
 .one {
     font-size: 1.6em;
@@ -213,7 +214,13 @@ a {
 }
 
 
-
+.raven {
+    padding: 10%;
+    font-size: 25px;
+    background-color: #2A1C68;
+    color: #fff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 
 /*----- Responsive Images ----------*/
 img {
