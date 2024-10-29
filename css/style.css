@@ -120,6 +120,9 @@ a {
 .one {
     padding: 10%;
 }
+.one img {
+    width: 17.5%;
+}
 
 
 .two {
@@ -175,9 +178,7 @@ a {
     font-size: 1.6em;
 }
 
-.five h2 {
-    color: #ffaa00;
-}
+
 
 .five h2,
 .five p {
@@ -188,6 +189,10 @@ a {
 .five {
     padding: 10%;
 }
+.five img{
+    width: 25%;
+}
+
 
 
 .seven {
@@ -202,6 +207,9 @@ a {
 
 .seven {
     padding: 10%;
+}
+.seven img{
+    width: 25%;
 }
 
 
