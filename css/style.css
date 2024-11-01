@@ -121,6 +121,10 @@ a {
 .one {
     padding: 10%;
 }
+.one h2 {
+    font-family: "Butcherman", system-ui;
+    color:#BF3100;
+}
 .one img {
     width: 17.5%;
 }
